@@ -1,7 +1,7 @@
 This is a simple animation sequence depicting four seasons - Autumn, Winter, Spring and Summer.
 Built using C/C++. This project was built as a part of my Computer Graphics course. 
 
-To use the project, include the files in the include and lib folders, in your compiler's respective
+To use the project,place the files in the include and lib folders, in your compiler's respective
 folders. Add the following linker parameters
 -lbgi
 -lgdi32
