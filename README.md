@@ -12,3 +12,6 @@ folders. Add the following linker parameters
 
 Compile and run - And you're good to go!
 
+Alternative
+Just import the given dev file to your devcpp enviroment. 
+
