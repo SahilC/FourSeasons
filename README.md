@@ -10,5 +10,5 @@ folders. Add the following linker parameters
 -loleaut32
 -lole32
 
-Compile and run - Now you're good to go!
+Compile and run - And you're good to go!
 
